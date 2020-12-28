@@ -1,4 +1,3 @@
-# kickstarter-analysis
 # Investigation of Kickstarter Campaigns Across the World
 ## Overview
 A client, Louise, who believes her play will cost $12,000, asked for an analysis of all kickstarter campaigns to determine if her kickstarter will be viable. Additionally, she wanted to analyze what is it about certain campaigns that make them successful - looking at information such as the time of the year they are run, the duration of the kickstarter, or the goal/pledge ratio. 
